@@ -1,0 +1,109 @@
+
+  #landing-container{
+  background-color: #000;
+  height: 95vh;
+  color: #fff;
+  background: linear-gradient(to bottom, rgba(0,0,0, 0), rgba(0,0,0, 100)), url(img/Background.jpg);
+  background-size: cover;
+  text-align: center;
+  font-weight: bold;
+
+}
+.container{
+  background-color: rgb(234, 234, 234);
+}
+.home{
+  font-style: normal;
+}
+.btn{
+    background-color: rgb(39,53,75);
+    text-emphasis-color: ghostwhite;
+    font-size: 30px;
+}
+.home-text1{
+   letter-spacing: 15px;
+   font-size: 50px;
+}
+.home-text2{
+  font-size: 100px;
+}
+.home-text3{
+  font-size: 70px;
+}
+.home-text4{
+  font-size: 100px;
+}
+
+/*AboutMe Style*/
+.track{
+  color: darkgrey;
+}
+#music_i{
+
+}
+/*CV*/
+#cv-title{
+  font-size: 40px;
+  font-style: normal;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+.cv{
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial;
+  font-weight: normal;
+  color: rgb(39,53,75);
+}
+.img{
+  padding: 20px;
+}
+#cv-col1{
+  background-color: rgb(39,53,75);
+}
+.cv-p{
+  color: rgb(234, 234, 234);
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial;
+  font-weight: normal;
+}
+.pro-p{
+  font-size: 20px;
+  font-style: normal;
+  font-family: Arial;
+  font-weight: normal;
+  color: rgb(39,53,75);
+}
+.h1{
+  text-align: center ;
+}
+#skyline{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+#wastebin{
+  padding bottom: 30px;
+  position: middle;
+}
+#bus-stop{
+  padding bottom: 30px;
+  position: middle;
+}
+#circle{
+  position: middle ;
+}
+.card-title{
+  font-family: "Copperplate", fantasy ;
+  font-size: 30px;
+}
+.card-text{
+  font-family: Times New Roman, sans-serif;
+  text-align: justify ;
+}
+.card-body{
+  height: 70;
+}
+.card-img{
+
+}
